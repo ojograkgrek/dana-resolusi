@@ -1,0 +1,5 @@
+Rencana Konten WPU
+- Belajar javascript
+  * ES6 
+  * Framework javascript
+- Laravel framework
