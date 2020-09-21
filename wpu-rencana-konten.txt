@@ -2,8 +2,12 @@ Rencana Konten WPU
 - Belajar javascript
   * ES6 
   * Framework javascript
-    > Vue
-    > React
+   > Angular
+   > React
+   > Vue
+   > React
 - Laravel framework
+- CI framework
 - Fundamental struktur data
 - Python
+
