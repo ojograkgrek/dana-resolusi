@@ -1,0 +1,6 @@
+Halo, salam kenal nama saya Pradana dari solo
+
+Resolusi saya :
+ - membuat website menggunakan framework javascript
+ - bekerja di startup
+ 
