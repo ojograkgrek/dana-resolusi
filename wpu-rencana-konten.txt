@@ -5,9 +5,9 @@ Rencana Konten WPU
    > Angular
    > React
    > Vue
-   > React
 - Laravel framework
 - CI framework
 - Fundamental struktur data
 - Python
+   > Python 3
 
