@@ -3,6 +3,7 @@ Rencana Konten WPU
   * ES6 
   * Framework javascript
     > Vue
+    > React
 - Laravel framework
 - Fundamental struktur data
 - Python
