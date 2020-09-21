@@ -4,3 +4,4 @@ Resolusi Dana
 - Menyiapkan sub portofolio 
 - Kolaborasi dengan content creativity
 - Membuat Sosial media portofolio
+- Membuat aplikasi berbasis Android
